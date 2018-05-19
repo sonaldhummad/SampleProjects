@@ -1,0 +1,12 @@
+/**
+ * 
+ */
+package com.springBoot.SpringRest;
+
+/**
+ * @author tcgdev
+ *
+ */
+public class Greetings {
+
+}
