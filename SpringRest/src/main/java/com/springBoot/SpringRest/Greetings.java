@@ -13,7 +13,7 @@ public class Greetings {
 	    private final String content;
 
 	    public Greetings(long id, String content) {
-	        this.id = id;
+	        this.id =id;
 	        this.content = content;
 	    }
 
